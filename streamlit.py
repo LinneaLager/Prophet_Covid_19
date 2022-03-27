@@ -1,5 +1,6 @@
 import pandas as pd
 import streamlit as st
+import plotly.plotly as py
 import plotly.express as px
 
 @st.cache
